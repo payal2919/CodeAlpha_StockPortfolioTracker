@@ -13,14 +13,25 @@ This project is a simple Stock Portfolio Tracker developed using Python as part 
 ## Technologies Used
 - Python 3
 
-## How to Run
-1. Open the project folder.
-2. Run the following command:
-   python main.py
-
 ## Files
 - main.py
 - portfolio.txt
 
+## How to Run
+1. Open the project folder.
+2. Run the following command:
+
+```bash
+python main.py
+```
+
+## Learning Concepts
+- Dictionaries
+- User Input
+- Arithmetic Operations
+- File Handling
+
 ## Author
-Payal Sarjerao Patil
+**Payal Sarjerao Patil**
+
+**Internship:** CodeAlpha Python Programming Internship
